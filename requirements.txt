@@ -1,0 +1,9 @@
+streamlit
+requests
+beautifulsoup4
+pandas
+numpy
+numpy-financial
+reportlab
+xlsxwriter
+matplotlib
